@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+    <string name="avenger1">Iron Man</string>
+    <string name="avenger2">Captain America</string>
+    <string name="avenger3">Thor</string>
+    <string name="avenger4">Hulk</string>
+    <string name="avenger5">Black Widow</string>
+    <string name="avenger6">Hawkeye</string>
+    <string name="avenger7">Vision</string>
+    <string name="avenger8">Scarlet Witch</string>
+    <string name="avenger9">Ant-man</string>
+    <string name="avenger10">Wasp</string>
+    <string name="avenger11">War Machine</string>
+    <string name="avenger12">Spiderman</string>
+    <string name="avenger13">Winter Soldier</string>
+    <string name="avenger14">Black Panther</string>
+    <string name="avenger15">Dr. Strange</string>
+</resources>
